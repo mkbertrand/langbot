@@ -14,7 +14,7 @@ public class BotMain {
 
 		new LatinPronounQuestion();
 
-		DiscordClient client = DiscordClient.create("OTA3NDIzODQwNjc2NzYxNjYw.YYm-Tg.BsaOuhWIoh2q74tlpo6qzYaI2RI");
+		DiscordClient client = DiscordClient.create("");
 
 		Mono<Void> login = client.withGateway((GatewayDiscordClient gateway) -> {
 
