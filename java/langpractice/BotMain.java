@@ -21,7 +21,7 @@ public class BotMain {
 
 		new LatinPronounQuestion();
 
-		DiscordClient client = DiscordClient.create("OTA3NDIzODQwNjc2NzYxNjYw.YYm-Tg.2w83aRVLlQOJCU7bxxVnL3aqM-s");
+		DiscordClient client = DiscordClient.create("");
 
 		ApplicationCommandRequest startGameRequest = ApplicationCommandRequest.builder().name("start")
 				.description("Starts a new language game")
