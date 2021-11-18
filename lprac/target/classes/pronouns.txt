@@ -1,6 +1,0 @@
-Pr6A,ego,mei,mihi,me,me,nos,nostri,nobis,nos,nobis=I,of me/mine,to me,me,by me,we,our,to us,us,by us
-Pr6A,tu,tui,tibi,te,te,vos,vestri,vobis,vos,vobis=thou/you,thy/your,to thee/to you,thee/you,by thee/by you,ye/you,your,to you,you,by you
-Pr6M,is,eius,ei,eum,eo,ei,eorum,eis,eos,eis=he,his,to him,him,by him,they,their,to them,them,by them
-Pr6M,is,eius,ei,eum,eo,ei,eorum,eis,eos,eis=he,his,to him,him,by him,they,their,to them,them,by them
-Pr6F,ea,eius,ei,eam,ea,eae,earum,eis,eas,eis=she,her,to her,her,by her,they,their,to them,them,by them
-Pr6N,id,eius,ei,id,eo,ea,eorum,eis,ea,eis=it,its,to it,it,by it,they,their,to them,them,by them
